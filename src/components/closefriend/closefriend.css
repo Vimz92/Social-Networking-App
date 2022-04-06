@@ -1,0 +1,14 @@
+
+.sidebarFriend{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.sidebarFriendimg{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+}
